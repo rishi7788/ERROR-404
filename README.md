@@ -60,6 +60,3 @@ To use this 404 page, make sure the 404.html is linked in your web server config
 # Contributing
 Contributions are welcome! If you want to add new features, fix bugs, or improve the styling, feel free to fork this repository and submit a pull request.
 
-
-# Credits
-Design: Created by RISHI POTHIREDDY.
